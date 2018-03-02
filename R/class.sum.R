@@ -4,8 +4,8 @@
 #' @keywords logistic
 #' @export
 #' @examples
-#' class_sum()
-class_sum=function(truth,predicted){
+#' class.sum()
+class.sum=function(truth,predicted){
   xt=table(truth,round(predicted+0.000001))
   pcc=round(100*sum(diag(xt))/sum(xt),2)
   spec=round(100*xt[1,1]/sum(xt[1,]),2)
