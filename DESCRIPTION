@@ -1,9 +1,9 @@
 Package: stat5810tools
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.4.3)
+Title: Custom Functions For Stat 5810
+Version: 0.1
+Authors@R: person("Jakob", "Johnson", email = "jakob.johnson@usu.edu", role = c("aut", "cre"))
+Description: Custom functions for Stat 5810.
+Depends: R (>= 3.4.0)
 Imports: verification
 License: What license is it under?
 Encoding: UTF-8
