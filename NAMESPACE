@@ -2,5 +2,5 @@
 
 export(class_sum)
 export(kappa)
-export(test_funct)
+export(test.funct)
 
