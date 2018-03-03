@@ -4,7 +4,7 @@ Version: 0.1
 Authors@R: person("Jakob", "Johnson", email = "jakob.johnson@usu.edu", role = c("aut", "cre"))
 Description: Custom functions for Stat 5810.
 Depends: R (>= 3.4.0)
-Imports: verification
+Imports: MASS, verification
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
