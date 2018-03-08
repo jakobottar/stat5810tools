@@ -3,4 +3,4 @@
 export(class.sum)
 export(kappa)
 export(test_funct)
-
+export(varcomp)
