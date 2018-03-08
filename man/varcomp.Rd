@@ -7,13 +7,13 @@
 varcomp(covmat, n)
 }
 \description{
-Test if covariance matrices are equal. By Fernando Henrique Ferraz P. da Rosa. 
-https://stat.ethz.ch/pipermail/r-help/2004-November/061223.html
-https://www.r-bloggers.com/equality-of-covariances-matrices-test-in-r-varcomp/
+Test if covariance matrices are equal. By Fernando Henrique Ferraz P. da Rosa. \cr
+https://stat.ethz.ch/pipermail/r-help/2004-November/061223.html \cr
+https://www.r-bloggers.com/equality-of-covariances-matrices-test-in-r-varcomp/ \cr
 }
 \examples{
 Suppose you have 3 estimated covariance matrices
-S1, S2, S3, from a sample of 3 bivariate normal populations with unkown
+S1, S2, S3, from a sample of 3 bivariate normal populations with unknown
 covariance matrices. The sample size for each Si, was 11,12,11.
 
 S1 <- matrix(c(7.17,19.47,19.47,113.38),byrow=T,ncol=2)
