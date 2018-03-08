@@ -7,9 +7,9 @@
 varcomp(covmat, n)
 }
 \description{
-Test if covariance matrices are equal. By Fernando Henrique Ferraz P. da Rosa. \cr
-https://stat.ethz.ch/pipermail/r-help/2004-November/061223.html \cr
-https://www.r-bloggers.com/equality-of-covariances-matrices-test-in-r-varcomp/ \cr
+Test if covariance matrices are equal. By Fernando Henrique Ferraz P. da Rosa.
+https://stat.ethz.ch/pipermail/r-help/2004-November/061223.html 
+https://www.r-bloggers.com/equality-of-covariances-matrices-test-in-r-varcomp/ 
 }
 \examples{
 Suppose you have 3 estimated covariance matrices
