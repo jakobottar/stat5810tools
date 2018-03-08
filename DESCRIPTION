@@ -1,6 +1,6 @@
 Package: stat5810tools
 Title: Custom Functions For Stat 5810
-Version: 0.1
+Version: 0.2
 Authors@R: person("Jakob", "Johnson", email = "jakob.johnson@usu.edu", role = c("aut", "cre"))
 Description: Custom functions for Stat 5810.
 Depends: R (>= 3.4.0)
