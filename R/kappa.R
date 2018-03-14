@@ -1,10 +1,4 @@
-#' Kappa Function
-#'
-#' none
-#' @keywords kappa 
-#' @export
-#' @examples
-#' kappa()
+#Private function, used by class.sum()
 kappa=function(x){
   n=sum(x)
   pobs=(x[1,1]+x[2,2])/n
