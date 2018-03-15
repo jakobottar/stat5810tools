@@ -2,6 +2,7 @@
 #'
 #' none
 #' @keywords logistic
+#' @author Richard Cutler, \email{richard.cutler@usu.edu}
 #' @export
 #' @examples
 #' class.sum()
