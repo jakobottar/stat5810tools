@@ -12,4 +12,7 @@ Desc
 \examples{
 findsplit()
 }
+\author{
+Richard Cutler, \email{richard.cutler@usu.edu}
+}
 \keyword{test}

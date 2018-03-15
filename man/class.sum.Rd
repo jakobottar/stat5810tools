@@ -12,4 +12,7 @@ none
 \examples{
 class.sum()
 }
+\author{
+Richard Cutler, \email{richard.cutler@usu.edu}
+}
 \keyword{logistic}
