@@ -2,6 +2,7 @@
 #'
 #' Desc
 #' @keywords test
+#' @author Richard Cutler, \email{richard.cutler@usu.edu}
 #' @export
 #' @examples
 #' findsplit()
